@@ -1,0 +1,9 @@
+[Core]
+Name = FilmesBot
+Module = filmes_bot
+
+[Python]
+Version = 3
+
+[Documentation]
+Description = Programacao de filmes
